@@ -1,7 +1,6 @@
 # Well Well Well You are doing good Studying CS50 Python Class
 # Addition of 2 Numbers
 
-Number1 = 12
 Number2 = 45
 print(Number1 + Number2)
 
@@ -22,4 +21,18 @@ print(7/2)
 result = 10 + 5 * 2 ** 3 // 4 - 1
 print(result)
 print(type(result))
+
+type(Number1)
+
+ #Inside to Outside First Float Then String Then Output
+a = 98
+print (str(float(a))) 
+
+xx = 67%7
+print(xx)
+
+# Converting "5" String to 5 integer
+a ="5"
+b = int(a)
+print(b)
 
